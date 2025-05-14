@@ -1,0 +1,21 @@
+{
+  "name": "ureishi",
+  "author": "ureishi",
+  "url": "https://github.com/YAVIIGI/ya7gi-style-vcc-packages/vpm.json",
+  "packages": {
+    "ya7gi.pomodorotimer": {
+      "versions": {
+        "1.0.0": {
+          "url": "https://github.com/YAVIIGI/pomodorotimer/releases/download/v1.0.0/ya7gi.pomodorotimer.1.0.0.zip"
+        },
+        "name": "ya7gi.pomodorotimer",
+        "displayName": "YA7GI - PomodoroTimer",
+        "unity": "2022.3",
+        "description": "Pomodoro Timer",
+        "vpmDependencies": {
+          "com.vrchat.worlds": ">=3.0.0"
+        }
+      }
+    }
+  }
+}
