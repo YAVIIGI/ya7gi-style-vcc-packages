@@ -16,6 +16,17 @@
           "vpmDependencies": {
             "com.vrchat.worlds": ">=3.0.0"
           }
+        },
+        "1.0.1": {
+          "name": "ya7gi.pomodorotimer",
+          "displayName": "YA7GI - PomodoroTimer",
+          "version": "1.0.1",
+          "unity": "2022.3",
+          "description": "Pomodoro Timer",
+          "url": "https://github.com/YAVIIGI/pomodorotimer/releases/download/v1.0.1/ya7gi.pomodorotimer.1.0.1.zip",
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.0.0"
+          }
         }
       }
     }
