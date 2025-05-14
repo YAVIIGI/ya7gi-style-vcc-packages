@@ -2,7 +2,7 @@
   "name": "ya7gi",
   "author": "ya7gi",
   "url": "https://yaviigi.github.io/ya7gi-style-vcc-packages/vpm.json",
-  "id": "ya7gi.pomodorotimer.vpm",
+  "id": "ya7gi.pomodorotimer",
   "packages": {
     "ya7gi.pomodorotimer": {
       "versions": {
@@ -14,6 +14,7 @@
           "description": "Pomodoro Timer",
           "url": "https://github.com/YAVIIGI/pomodorotimer/releases/download/v1.0.0/ya7gi.pomodorotimer.1.0.0.zip",
           "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.0.0"
           }
         }
       }
