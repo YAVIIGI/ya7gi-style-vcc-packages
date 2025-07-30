@@ -93,7 +93,7 @@
           "version": "1.0.0",
           "unity": "2022.3",
           "description": "いつでもポモドーロタイマーが使えるVRCアバターギミックです。",
-          "url": "https://github.com/YAVIIGI/vrc-avatar-anytimepomodorotimer/archive/refs/tags/v1.0.0.zip",
+          "url": "https://github.com/YAVIIGI/vrc-avatar-anytimepomodorotimer/releases/download/v1.0.0/com.ya7gi.anytimepomodorotimer.1.0.0.zip",
           "vpmDependencies": {
           }
         }
