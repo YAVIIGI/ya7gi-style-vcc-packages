@@ -84,6 +84,20 @@
           }
         }
       }
+    },
+    "ya7gi.anytimepomodorotimer": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.ya7gi.anytimepomodorotimer",
+          "displayName": "Anytime Pomodoro Timer",
+          "version": "1.0.0",
+          "unity": "2022.3",
+          "description": "いつでもポモドーロタイマーが使えるVRCアバターギミックです。",
+          "url": "https://github.com/YAVIIGI/vrc-avatar-anytimepomodorotimer/archive/refs/tags/v1.0.0.zip",
+          "vpmDependencies": {
+          }
+        }
+      }
     }
   }
 }
